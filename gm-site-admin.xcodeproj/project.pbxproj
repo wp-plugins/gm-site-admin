@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CDED93171AF2802D004981B3 /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = readme.txt; path = "../../../Dropbox/GreenMellen/_Green Mellen Team/WordPress/GMM plugins/gm-site-admin/readme.txt"; sourceTree = "<group>"; };
+		CDED93181AF2802D004981B3 /* screenshot-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "screenshot-1.png"; path = "../../../Dropbox/GreenMellen/_Green Mellen Team/WordPress/GMM plugins/gm-site-admin/screenshot-1.png"; sourceTree = "<group>"; };
+		CDED93191AF2802D004981B3 /* site-admin.php */ = {isa = PBXFileReference; lastKnownFileType = text.script.php; name = "site-admin.php"; path = "../../../Dropbox/GreenMellen/_Green Mellen Team/WordPress/GMM plugins/gm-site-admin/site-admin.php"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CDED93101AF27FE0004981B3 = {
+			isa = PBXGroup;
+			children = (
+				CDED93171AF2802D004981B3 /* readme.txt */,
+				CDED93181AF2802D004981B3 /* screenshot-1.png */,
+				CDED93191AF2802D004981B3 /* site-admin.php */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CDED93111AF27FE0004981B3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
+			buildConfigurationList = CDED93141AF27FE0004981B3 /* Build configuration list for PBXProject "gm-site-admin" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CDED93101AF27FE0004981B3;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CDED93151AF27FE0004981B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CDED93161AF27FE0004981B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CDED93141AF27FE0004981B3 /* Build configuration list for PBXProject "gm-site-admin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDED93151AF27FE0004981B3 /* Debug */,
+				CDED93161AF27FE0004981B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CDED93111AF27FE0004981B3 /* Project object */;
+}
