@@ -3,7 +3,7 @@
 Plugin Name: Site Administrator
 Plugin URI: http://www.greenmellenmedia.com/plugins/gm-site-admin/
 Description: Adds Site Admin User Role
-Version: 1.0
+Version: 1.0.1
 Author: GreenMellen Media
 Author URI: http://www.greenmellenmedia.com/
 License: GPLv2 or later
