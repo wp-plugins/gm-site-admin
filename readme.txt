@@ -12,7 +12,7 @@ This plugin creates a Site Administrator user role.
 
 GM Site Admin gives you the ability to bridge the gap between Editor and Administrator. This user role allows you to set a user to a higher access level but keep them away from the dangers of a full Administrator role.
 
-Site Admin Can: 
+= Site Admin Can: =
 * Read, Edit, Delete and Publish Posts and Pages
 * Create and Manage Categories
 * Manage Comments
@@ -20,7 +20,7 @@ Site Admin Can:
 * Create, Edit and Delete Users
 * Edit Theme Options
 
-Site Admin Cannot: 
+= Site Admin Cannot: =
 * Change Themes
 * Activate, Update or Delete Plugins
 * Export or Import content via the Tools menu
