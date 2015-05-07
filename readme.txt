@@ -2,8 +2,8 @@
 Contributors: mickmel, ashlealanier
 Tags: user roles, administrators, editors, client user roles
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: 1.0.1
+Tested up to: 4.2.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 This plugin creates a Site Administrator user role.
@@ -32,6 +32,9 @@ GM Site Admin gives you the ability to bridge the gap between Editor and Adminis
 3. Go to Users menu and create a new user or change the role for an existing user.
 
 == Changelog ==
+
+= 1.0.2 =
+* Minor Bug Fixes
 
 = 1.0.1 =
 * Minor Bug Fixes
